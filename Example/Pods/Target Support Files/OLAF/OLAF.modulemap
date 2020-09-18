@@ -1,0 +1,6 @@
+framework module OLAF {
+  umbrella header "OLAF-umbrella.h"
+
+  export *
+  module * { export * }
+}

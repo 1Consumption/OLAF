@@ -1,0 +1,6 @@
+framework module Pods_OLAF_Tests {
+  umbrella header "Pods-OLAF_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
