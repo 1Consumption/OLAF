@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OLAF_Example' do
+  pod 'OLAF', :path => '../'
+
+  target 'OLAF_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
