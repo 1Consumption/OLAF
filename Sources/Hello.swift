@@ -12,6 +12,10 @@ public class Hello {
         print("Hello")
     }
     
+    public func version2() {
+        print("version2")
+    }
+    
     public init() {
         
     }
